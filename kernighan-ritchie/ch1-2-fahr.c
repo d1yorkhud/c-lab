@@ -32,3 +32,15 @@
  %.2f ->  print as floating point, 2 characters after decimal point
  %6.2f ->  print as floating point, at least 6 wide and 2 after decimal point 
  */
+
+
+
+ /*
+ printf also recognizes
+ 
+ %o for octal,
+ %x for hexadecimal,
+ %c for character,
+ %s for character string,
+ %% for itself. 
+ */
