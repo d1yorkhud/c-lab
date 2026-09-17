@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/diyor/Documents/programming in C/kernighan-ritchie/chapter-1/ch1-5-1'
+relocations:     []
+...
