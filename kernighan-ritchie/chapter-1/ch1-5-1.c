@@ -1,5 +1,26 @@
 /*
 File Copying
+character-by-character copy program.
+
+example:
+
+ - input:
+
+Hello
+My name is Diyor.
+I am learning C.
+
+ - process:
+
+ H → e → l → l → o → \n
+M → y → ' ' → n → a → m → e → ... → \n
+I → ' ' → a → m → ' ' → l → e → ... → \n
+
+ - output
+ 
+ Hello
+My name is Diyor.
+I am learning C.
 */
 
 
