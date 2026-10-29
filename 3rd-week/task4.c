@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main(void){
-    short i;
+   unsigned short i;
 
-    i = 32767;
+    i = 32768;
     printf("i = %d\n", i);
     //1
     printf("i = %o\n", (unsigned int)i);
